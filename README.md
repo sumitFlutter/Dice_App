@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 <p>
   <img src=
-  https://github.com/sumitFlutter/Dice_App/assets/153794386/d0a8065d-3912-45eb-a53d-d6500015910b height 200px ,width 200px>
+  https://github.com/sumitFlutter/Dice_App/assets/153794386/d0a8065d-3912-45eb-a53d-d6500015910b height 20px ,width 20px>
   <video>
     
 
