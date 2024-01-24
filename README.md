@@ -18,9 +18,10 @@ samples, guidance on mobile development, and a full API reference.
   <img src= https://github.com/sumitFlutter/Dice_App/assets/153794386/c7f2baba-3a25-4d42-9a9b-084b35acb8ca
    height="400px" width="200px"/>
    <img src=https://github.com/sumitFlutter/Dice_App/assets/153794386/6e93b72d-9e93-4e71-b5bd-9737d04e6e23     height="400px" width="200px"/>
-  <video>
-https://github.com/sumitFlutter/Dice_App/assets/153794386/2ff22797-c52b-4e63-a404-894b0f6e1d68
+   
 
-  </video>
+https://github.com/sumitFlutter/Dice_App/assets/153794386/b9544745-f033-4e99-989e-ba2ac3480268
+
+
 
 </p>
