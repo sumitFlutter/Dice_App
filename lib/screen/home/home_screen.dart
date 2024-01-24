@@ -179,9 +179,9 @@ class _HomeScreenState extends State<HomeScreen> {
                         image = "assets/image/6.png";
                         image2 = "assets/image/5.png";
                       }
-                      if (i == 11) {
-                        image = "assets/image/6.png";
-                        image2 = "assets/image/5.png";
+                      if (i == 11&& color1) {
+                        image = "assets/image/5.png";
+                        image2 = "assets/image/6.png";
                       }
                       if (i == 12) {
                         image = "assets/image/6.png";
